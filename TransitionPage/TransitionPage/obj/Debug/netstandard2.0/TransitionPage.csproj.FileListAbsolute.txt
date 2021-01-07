@@ -1,0 +1,16 @@
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\obj\Debug\netstandard2.0\TransitionPage.csprojAssemblyReference.cache
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\obj\Debug\netstandard2.0\Views\DetailView.xaml.g.cs
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\obj\Debug\netstandard2.0\TransitionPage.AssemblyInfoInputs.cache
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\obj\Debug\netstandard2.0\TransitionPage.AssemblyInfo.cs
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\obj\Debug\netstandard2.0\TransitionPage.csproj.CoreCompileInputs.cache
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\bin\Debug\netstandard2.0\TransitionPage.deps.json
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\bin\Debug\netstandard2.0\TransitionPage.dll
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\bin\Debug\netstandard2.0\ref\TransitionPage.dll
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\bin\Debug\netstandard2.0\TransitionPage.pdb
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\obj\Debug\netstandard2.0\TransitionPage.dll
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\obj\Debug\netstandard2.0\ref\TransitionPage.dll
+C:\PersonalXamarinApp\TransitionPage\TransitionPage\TransitionPage\obj\Debug\netstandard2.0\TransitionPage.pdb
